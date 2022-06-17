@@ -61,7 +61,7 @@ test('the shopping list has beer on it', () => {
   ]
   expect(shoppingList).toContain('beer')
 })
-
+// added test comment
 // .toHaveProperty(keyPath, value)
 test('this house has my desired features', () => {
   // Object containing house features to be tested
