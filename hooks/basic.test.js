@@ -21,7 +21,7 @@ test('count is 1', () => {
   expect(count).toBe(1)
   console.log('test 1')
 })
-
+// added comment to see smart test selection
 test('count is 2', () => {
   expect(count).toBe(2)
   console.log('test 2')
